@@ -1,5 +1,5 @@
 EVENT|1783465200|test|20
-SLOT|1|open|
+SLOT|1|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/user/usr_7149d63c-0959-4be1-9f28-958165018f3e
 SLOT|2|open|
 SLOT|3|open|
 SLOT|4|open|
