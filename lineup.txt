@@ -1,1 +1,5 @@
-
+EVENT|1783465200|test|20
+SLOT|1|open|
+SLOT|2|open|
+SLOT|3|open|
+SLOT|4|open|
