@@ -2,7 +2,7 @@ EVENT|1786748400|Printworks Colab|60
 SLOT|1|open|
 SLOT|2|open|
 SLOT|3|open|
-SLOT|4|open|
+SLOT|4|DJ Ghœst|https://vrchat.com/home/user/usr_f8bf371f-04b8-401d-81c3-afb9ccf95d1b
 SLOT|5|open|
 SLOT|6|༒Яeflex༒|https://vrchat.com/home/user/usr_c1ee1a6e-cd53-46cd-9b96-f024c0a7cea1
 SLOT|7|open|
