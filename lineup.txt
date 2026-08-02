@@ -5,5 +5,5 @@ SLOT|3|open|
 SLOT|4|open|
 SLOT|5|open|
 SLOT|6|open|
-SLOT|7|open|
+SLOT|7|MOXIUS|https://vrchat.com/home/user/usr_68b2ed1e-ed35-4e1b-980d-b5cfd8ee0ccc
 SLOT|8|open|
