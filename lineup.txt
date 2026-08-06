@@ -6,4 +6,4 @@ SLOT|4|Mellana_XO|https://vrchat.com/home/user/usr_faf6e3ab-c96e-4c76-ae84-60771
 SLOT|5|DJ Ghœst|https://vrchat.com/home/user/usr_f8bf371f-04b8-401d-81c3-afb9ccf95d1b
 SLOT|6|open|
 SLOT|7|MOXIUS|https://vrchat.com/home/user/usr_68b2ed1e-ed35-4e1b-980d-b5cfd8ee0ccc
-SLOT|8|༒Яeflex༒|https://vrchat.com/home/user/usr_c1ee1a6e-cd53-46cd-9b96-f024c0a7cea1
+SLOT|8|open|
