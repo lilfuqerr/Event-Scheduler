@@ -3,7 +3,7 @@ SLOT|1|open|
 SLOT|2|open|
 SLOT|3|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
 SLOT|4|Mellana_XO|https://vrchat.com/home/user/usr_faf6e3ab-c96e-4c76-ae84-60771f77f173
-SLOT|5|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/user/usr_7149d63c-0959-4be1-9f28-958165018f3e
+SLOT|5|Zyndetta|
 SLOT|6|open|
 SLOT|7|MOXIUS|https://vrchat.com/home/user/usr_68b2ed1e-ed35-4e1b-980d-b5cfd8ee0ccc
 SLOT|8|༒Яeflex༒|https://vrchat.com/home/user/usr_c1ee1a6e-cd53-46cd-9b96-f024c0a7cea1
