@@ -1,7 +1,7 @@
 EVENT|1786737600|Printworks Colab|60
 SLOT|1|Ranma Joka|https://vrchat.com/home/user/usr_11b1b885-4c13-4ce0-9056-031dc4444a65
 SLOT|2|DJ FEELx|https://vrchat.com/home/user/usr_743fd2f0-10d7-4ca4-9235-a4ec06386119
-SLOT|3|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
+SLOT|3|open|
 SLOT|4|Mellana_XO|https://vrchat.com/home/user/usr_faf6e3ab-c96e-4c76-ae84-60771f77f173
 SLOT|5|Zyndetta|https://vrchat.com/home/user/usr_7f5115af-7e90-4923-aae0-b5ac3cfa95bf
 SLOT|6|DJ Asthma|https://vrchat.com/home/user/usr_f5561a83-58a7-4a77-8ade-e11469909940
