@@ -1,21 +1,16 @@
-8͓̊P͓̊x͓̊P͓̊8͓̊,1
-RealStubz,1
-Lumieres,1
-Sodapopcam,1
-nightsquire,1
-o_INFIN_o,1
-Multi S,1
-Alunchboi,1
-Hollowed悪魔,1
-DJ Voiceless,0
-nøjī,1
-hecteli,0
-VintageVin,1
--MOXIUS-,0
-山丹尺ㄥ口尺刀,0
-TinFoilHat__,1
-NGHT RYD,0
-山丹尺ㄥ口尺刀,0
-RàzêHèłłĘdgēŁørdŪnØrthõdõx,0
-ddddoubledog,0
+8͓̊P͓̊x͓̊P͓̊8͓̊:Admin
+Multi S:VIP
+Lumieres:VIP
+Sodapopcam:Admin
+nightsquire:Admin
+o_INFIN_o:Admin
+DJ Voiceless:DJ
+nøjī:Admin
+hecteli:DJ
+RealStubz:Admin
+ɖʝ ʋɨռȶǟɢɛʋɨռ:DJ
+-MOXIUS-:DJ
+山丹尺ㄥ口尺刀:DJ
+TinFoilHat__:VIP
+ddddoubledog:DJ
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
