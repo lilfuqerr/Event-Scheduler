@@ -11,12 +11,12 @@ DJ Voiceless,0
 nøjī,1
 hecteli,0
 VintageVin,1
-Helpful Mirage,3
+Helpful Mirage,2
 -MOXIUS-,0
 山丹尺ㄥ口尺刀,0
 TinFoilHat__,1
 NGHT RYD,0
 RàzêHèłłĘdgēŁørdŪnØrthõdõx,0
 ddddoubledog,0
-~~~Jp~~~,4
+~~~Jp~~~,3
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
