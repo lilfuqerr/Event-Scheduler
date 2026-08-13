@@ -14,4 +14,5 @@ RealStubz:Admin
 TinFoilHat__:VIP
 ddddoubledog:DJ
 Helpful Mirage:Admin
+~~~Jp~~~:Admin
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
