@@ -13,4 +13,5 @@ RealStubz:Admin
 山丹尺ㄥ口尺刀:DJ
 TinFoilHat__:VIP
 ddddoubledog:DJ
+Helpful Mirage:Admin
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
