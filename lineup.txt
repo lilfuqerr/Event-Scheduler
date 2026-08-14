@@ -11,3 +11,17 @@ SLOT|5|Zyndetta|https://vrchat.com/home/user/usr_7f5115af-7e90-4923-aae0-b5ac3cf
 SLOT|6|DJ Asthma|https://vrchat.com/home/user/usr_f5561a83-58a7-4a77-8ade-e11469909940
 SLOT|7|MOXIUS|https://vrchat.com/home/user/usr_68b2ed1e-ed35-4e1b-980d-b5cfd8ee0ccc
 SLOT|8|ddddoubledog|https://vrchat.com/home/user/usr_c3ea70b7-211d-456a-ac61-017bf9705d7f
+EVENT|1786737600|PrintWorks Colab!|60
+GENRE|Any
+WORLD|《h1ll Rave Abduction|https://vrchat.com/home/world/wrld_2e611488-411e-4c0e-a55d-d86db6c28dc5
+GROUP|4bs0lut3 《h1ll|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
+HOST|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
+DESC|Get ready for a night of crazy vibes, visuals, and music! With a world modelled after the London based Printworks, this is a massive space to let loose the inner rave in you. From music, games, and DJ's galore, this event will have everything and then some, so come on by!
+SLOT|1|open|
+SLOT|2|open|
+SLOT|3|open|
+SLOT|4|open|
+SLOT|5|open|
+SLOT|6|open|
+SLOT|7|open|
+SLOT|8|open|
