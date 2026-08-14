@@ -3,6 +3,7 @@ GENRE|Any
 WORLD|《h1ll Rave Abduction|https://vrchat.com/home/world/wrld_2e611488-411e-4c0e-a55d-d86db6c28dc5
 GROUP|4bs0lut3 《h1ll|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
 HOST|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
+COHOST|𝐻𝑒𝑙𝑝𝑓𝑢𝑙 𝑀𝑖𝑟𝑎𝑔𝑒|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
 DESC|Get ready for a night of crazy vibes, visuals, and music! With a world modelled after the London based Printworks, this is a massive space to let loose the inner rave in you. From music, games, and DJ's galore, this event will have everything and then some, so come on by!
 SLOT|1|Ranma Joka|https://vrchat.com/home/user/usr_11b1b885-4c13-4ce0-9056-031dc4444a65
 SLOT|2|DJ FEELx|https://vrchat.com/home/user/usr_743fd2f0-10d7-4ca4-9235-a4ec06386119
