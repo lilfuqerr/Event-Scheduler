@@ -23,5 +23,5 @@ SLOT|3|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95
 SLOT|4|Mellana_XO|https://vrchat.com/home/user/usr_faf6e3ab-c96e-4c76-ae84-60771f77f173
 SLOT|5|Zyndetta|https://vrchat.com/home/user/usr_7f5115af-7e90-4923-aae0-b5ac3cfa95bf
 SLOT|6|DJ Asthma|https://vrchat.com/home/user/usr_f5561a83-58a7-4a77-8ade-e11469909940
-SLOT|7|open|
+SLOT|7|MOXIUS|https://vrchat.com/home/user/usr_68b2ed1e-ed35-4e1b-980d-b5cfd8ee0ccc
 SLOT|8|open|
