@@ -1,4 +1,8 @@
 EVENT|1786737600|Printworks Colab|60
+GENRE|Any
+WORLD|《h1ll Rave Abduction|https://vrchat.com/home/world/wrld_2e611488-411e-4c0e-a55d-d86db6c28dc5
+HOST|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/user/usr_7149d63c-0959-4be1-9f28-958165018f3e
+DESC|Are you ready for a night of crazy lights, powerful music, and a vibe that won't leave the night? Then join us for the Printworks Colab, where groups and performers are in the plenty! Hope to see you there!
 SLOT|1|Ranma Joka|https://vrchat.com/home/user/usr_11b1b885-4c13-4ce0-9056-031dc4444a65
 SLOT|2|DJ FEELx|https://vrchat.com/home/user/usr_743fd2f0-10d7-4ca4-9235-a4ec06386119
 SLOT|3|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
