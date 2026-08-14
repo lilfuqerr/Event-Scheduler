@@ -15,6 +15,7 @@ Helpful Mirage,2
 -MOXIUS-,0
 山丹尺ㄥ口尺刀,0
 TinFoilHat__,1
+GREMLN,2
 NGHT RYD,0
 RàzêHèłłĘdgēŁørdŪnØrthõdõx,0
 ddddoubledog,0
