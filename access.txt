@@ -16,6 +16,7 @@ ddddoubledog:DJ
 Helpful Mirage:Admin
 ~~~Jp~~~:Admin
 GREMLN:Admin
+OccultArchitect:Admin
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
 Ranma Joka:DJ
 DJ FEELx:DJ
