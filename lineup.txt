@@ -7,4 +7,4 @@ DESC|Rando ass pop up to make your ears bleed! We finna run it back, and this ti
 SLOT|1|open|
 SLOT|2|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
 SLOT|3|˚ʚᴋɪᴛᴛʏɞ˚|https://vrchat.com/home/user/usr_7201170c-b06b-477f-abb3-87616d552d4b
-SLOT|4|open|
+SLOT|4|ddddoubledog|https://vrchat.com/home/user/usr_c3ea70b7-211d-456a-ac61-017bf9705d7f
