@@ -1,13 +1,3 @@
-EVENT|1787353200|Rando Ass Popup|60
-GENRE|Any
-WORLD|ShadeWorks|https://vrchat.com/home/world/wrld_e809c5cf-7332-4ce1-bf1d-0ae5816aea2c
-GROUP|4bs0lut3 《h1ll|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
-HOST|8͓̊P͓̊x͓̊P͓̊8͓̊|https://vrchat.com/home/group/grp_178fca39-0879-4abd-b39e-b77d7f25f45a
-DESC|Rando ass pop up to make your ears bleed! We finna run it back, and this time, the world will perform a lot better! Anyway, get in this lineup!
-SLOT|1|_-'༒ƵÆ༒'-_|https://vrchat.com/home/user/usr_8f3f51d9-dee9-4982-b218-f1a123404319
-SLOT|2|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
-SLOT|3|˚ʚᴋɪᴛᴛʏɞ˚|https://vrchat.com/home/user/usr_7201170c-b06b-477f-abb3-87616d552d4b
-SLOT|4|ddddoubledog|https://vrchat.com/home/user/usr_c3ea70b7-211d-456a-ac61-017bf9705d7f
 EVENT|1787374800|GRAND OPENING SEWER CLUB|0
 GENRE|open
 WORLD|sewer club|https://vrchat.com/home/world/wrld_a881e8fb-9358-4e44-bc51-061eae623e09
