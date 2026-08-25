@@ -1,23 +1,21 @@
 8͓̊P͓̊x͓̊P͓̊8͓̊,1
-RealStubz,1
-Lumieres,1
-Sodapopcam,1
-nightsquire,1
+RealStubz,0
+Lumieres,2
+Sodapopcam,2
+nightsquire,2
 o_INFIN_o,1
-Multi S,1
-Alunchboi,1
-Hollowed悪魔,1
+Multi S,2
+Alunchboi,2
+Hollowed悪魔,2
 DJ Voiceless,0
-nøjī,1
-hecteli,0
-VintageVin,1
+nøjī,2
+hecteli,2
 Helpful Mirage,2
 -MOXIUS-,0
 山丹尺ㄥ口尺刀,0
-TinFoilHat__,1
-GREMLN,2
+TinFoilHat__,2
 NGHT RYD,0
 RàzêHèłłĘdgēŁørdŪnØrthõdõx,0
 ddddoubledog,0
-~~~Jp~~~,3
+~~~Jp~~~,2
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
