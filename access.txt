@@ -1,2 +1,2 @@
-o_INFIN_o
+o_INFIN_o,Admin
 # ===== AUTO-MANAGED BY DISCORD BOT — do not edit below this line =====
