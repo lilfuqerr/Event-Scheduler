@@ -9,4 +9,4 @@ SLOT|2|TheDudeX2|
 SLOT|3|open|
 SLOT|4|DJ FEELx|https://vrchat.com/home/user/usr_743fd2f0-10d7-4ca4-9235-a4ec06386119
 SLOT|5|open|
-SLOT|6|open|
+SLOT|6|nøjī|https://vrchat.com/home/user/usr_10effb17-5ed8-41e9-b724-0989e9e95420
